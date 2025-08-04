@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+🌿 NGO Website – Built with React + Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi! I'm Atharv Puranik, and this is a fully responsive NGO website I built as part of an internship selection process. The goal was to create a clean, modern, and functional site that reflects the mission of a non-profit organization — and I made sure to include everything from landing pages to forms, all coded from scratch using React and Tailwind CSS.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+🚀 Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This website includes:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- ✅ A beautiful **Home page** with a clear intro to the NGO’s mission
+- 📝 A working **Volunteer/Intern Registration Form** (front-end only)
+- 📃 An **About Us** section to describe the vision and values
+- 📱 **Mobile-first responsive design**
+- 🎨 Clean and minimal Tailwind styling
+- 💡 Structured for scalability and easy backend integration
 
-### `npm test`
+I focused on clarity, usability, and a layout that recruiters or real users can actually visualize in production.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+ 📸 Preview
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ Here’s a quick look at how it appears in the browser:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🛠️ Tech Stack
+-------------------------------------------------------
+| Tool/Library     | Purpose                          |
+|------------------|----------------------------------|
+| React            | UI Development (CRA setup)       |
+| Tailwind CSS     | Styling and layout               |
+| JavaScript (ES6) | Logic and interactions           |
+| Git & GitHub     | Version control and hosting      |
+-------------------------------------------------------
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📂 Folder Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ngo-website/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/ # Reusable components like Navbar, Footer, etc.
+│ ├── pages/ # Page-level components (Home, Register, About)
+│ ├── App.js # Main app routing setup
+│ ├── index.js # Entry point
+│ └── index.css # Tailwind + global styles
+├── package.json
+└── README.md
 
-## Learn More
+ 🧠 What I Learned
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Setting up and customizing Tailwind with Create React App
+- Managing multiple page routes using React Router
+- Designing clean, responsive UIs with utility-first CSS
+- Organizing React code in a scalable, component-driven structure
+- Debugging build errors with PostCSS and Tailwind integration
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+ 🧪 How to Run the Project Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clone the repo and run it in your local environment:
 
-### Analyzing the Bundle Size
+bash
+git clone https://github.com/Atharv28ye/ngo-website12.git
+cd ngo-website
+npm install
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+✨ Future Improvements (If Given More Time)
+🔐 Backend integration for form submissions (Node.js + MongoDB)
 
-### Making a Progressive Web App
+📥 File upload option in registration form
+🌈 More animations or illustrations for storytelling
+🔎 SEO & accessibility improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📫 Contact
+Feel free to connect if you’d like to collaborate, review my code, or just say hi!
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Name: Atharv Puranik
+Email: puranikatharv@gmail.com
+Mobile No- 9136114728
+GitHub: @Atharv28ye
