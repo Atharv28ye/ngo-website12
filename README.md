@@ -21,7 +21,12 @@ I focused on clarity, usability, and a layout that recruiters or real users can 
  📸 Preview
 
  Here’s a quick look at how it appears in the browser:
-
+ ![Website Preview](home.png)
+ ![Website Preview](home12.png)
+ ![Website Preview](home13.png)
+ ![Website Preview](home14.png)
+ ![Website Preview](home15.png)
+![Website Preview](home22.png)
 
 
 
