@@ -2,6 +2,7 @@
 
 Hi! I'm Atharv Puranik, and this is a fully responsive NGO website I built as part of an internship selection process. The goal was to create a clean, modern, and functional site that reflects the mission of a non-profit organization — and I made sure to include everything from landing pages to forms, all coded from scratch using React and Tailwind CSS.
 
+WEBSITE LIVE LINK - https://ngo-website12.vercel.app/
 
 
 🚀 Project Overview
